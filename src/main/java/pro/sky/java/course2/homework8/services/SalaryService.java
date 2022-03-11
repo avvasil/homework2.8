@@ -1,6 +1,6 @@
-package pro.sky.java.course2.homework8.interfaces;
+package pro.sky.java.course2.homework8.services;
 
-import pro.sky.java.course2.homework8.classes.Employee;
+import pro.sky.java.course2.homework8.model.Employee;
 
 import java.util.Collection;
 import java.util.List;

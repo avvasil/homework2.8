@@ -1,10 +1,9 @@
 package pro.sky.java.course2.homework8.services;
 
 import org.springframework.stereotype.Service;
-import pro.sky.java.course2.homework8.classes.Employee;
-import pro.sky.java.course2.homework8.classes.EmployeeAlreadyExistsException;
-import pro.sky.java.course2.homework8.classes.EmployeeNotFoundException;
-import pro.sky.java.course2.homework8.interfaces.EmployeeService;
+import pro.sky.java.course2.homework8.model.Employee;
+import pro.sky.java.course2.homework8.exceptions.EmployeeAlreadyExistsException;
+import pro.sky.java.course2.homework8.exceptions.EmployeeNotFoundException;
 
 import java.util.Collection;
 import java.util.HashMap;

@@ -1,4 +1,4 @@
-package pro.sky.java.course2.homework8.classes;
+package pro.sky.java.course2.homework8.model;
 
 import java.util.Objects;
 
